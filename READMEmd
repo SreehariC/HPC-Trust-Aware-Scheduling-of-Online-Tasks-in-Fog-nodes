@@ -6,3 +6,5 @@ To run the code:
 python3 code.py
 
 Upon running the code, the outputs will produced in the terminal and tasks (testcases) are generated online as it is an online scheduling problem and they are stored in output.txt file.
+
+For more details and results, go through the report.
